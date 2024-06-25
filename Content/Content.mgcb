@@ -13,3 +13,12 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin blocks.json
+/copy:blocks.json
+
+#begin Fonts/Minecraft.ttf
+/copy:Fonts/Minecraft.ttf
+
+#begin multiface_blocks.json
+/copy:multiface_blocks.json
+
